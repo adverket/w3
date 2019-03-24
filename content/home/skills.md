@@ -24,13 +24,13 @@ weight = 30
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Analytics"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Data Collection"
   description = "10%"
 
 +++
